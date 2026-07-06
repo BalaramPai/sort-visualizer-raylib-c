@@ -1,0 +1,9 @@
+visualSort
+
+*.o
+
+build/
+
+.vscode/
+
+*.out

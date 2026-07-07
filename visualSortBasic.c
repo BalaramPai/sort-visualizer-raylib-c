@@ -13,7 +13,7 @@
 #define HEIGHT 600
 
 // Total number of bars to be visualized and sorted.
-#define COUNT 100
+#define COUNT 50
 
 
 

@@ -1,9 +1,16 @@
+# Linux executables
 visualSort
+visualSortBasic
+visualSortAdvanced
 
+# Windows executables
+*.exe
+
+# Object files
 *.o
 
+# Build directories
 build/
 
+# VS Code
 .vscode/
-
-*.out
